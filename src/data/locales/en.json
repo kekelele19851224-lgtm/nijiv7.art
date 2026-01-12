@@ -1,0 +1,336 @@
+{
+  "nav": {
+    "home": "Home",
+    "promptBuilder": "Prompt Builder",
+    "prompts": "Prompts",
+    "parameters": "Parameters",
+    "startCreating": "Start Creating"
+  },
+  "hero": {
+    "badge": "The AI That Actually Gets Anime",
+    "title": "Niji V7",
+    "subtitle": "Prompt Generator",
+    "description": "Create perfect prompts for Niji V7. Generate stunning anime art with our free tools, templates, and comprehensive parameter guide.",
+    "cta": "Start Creating for Free →",
+    "stats": {
+      "prompts": "Prompt Templates",
+      "parameters": "Parameters",
+      "languages": "Languages"
+    }
+  },
+  "whyV7": {
+    "title": "Why V7 Changes Everything",
+    "subtitle": "Real improvements that matter for anime artists and enthusiasts",
+    "coherency": {
+      "title": "Rock-Solid Consistency",
+      "desc": "Say goodbye to wonky eyes and mismatched details. V7 delivers dramatically improved consistency across every element—from reflections to backgrounds to character features."
+    },
+    "lineart": {
+      "title": "Beautiful Lineart",
+      "desc": "Clean, confident strokes that capture the essence of professional anime illustration. The kind of linework that even seasoned artists admire."
+    },
+    "prompt": {
+      "title": "It Actually Listens",
+      "desc": "V7 understands what you're asking for. Complex prompts, specific character details, particular poses—it gets it right more often than you'd expect."
+    },
+    "sref": {
+      "title": "Style Reference",
+      "desc": "Lock in your aesthetic with the powerful --sref feature. Build a consistent visual identity across all your work—perfect for character sheets and series."
+    }
+  },
+  "howTo": {
+    "title": "Get Started in Minutes",
+    "subtitle": "From signup to stunning anime art in three simple steps",
+    "step1": {
+      "title": "Create Your Account",
+      "desc": "Head to the official Niji Journey site or join the Discord server. You can start with a free trial to test the waters."
+    },
+    "step2": {
+      "title": "Craft Your Prompt",
+      "desc": "Describe what you want to create. Add \"--niji 7\" to your prompt to unlock V7's full potential. Be specific—V7 can handle it."
+    },
+    "step3": {
+      "title": "Generate & Refine",
+      "desc": "Watch as four unique variations appear in seconds. Upscale your favorites, iterate on what works, and download your masterpiece."
+    }
+  },
+  "compare": {
+    "title": "V6 vs V7: The Upgrade",
+    "subtitle": "Here's exactly what's improved in the latest version",
+    "table": {
+      "feature": "Feature",
+      "lineart": "Lineart Quality",
+      "good": "Good",
+      "exceptional": "Exceptional",
+      "majorUpgrade": "Major upgrade",
+      "consistency": "Character Consistency",
+      "moderate": "Moderate",
+      "high": "High",
+      "eyesHands": "Eyes, hands, poses stay coherent",
+      "promptUnderstanding": "Prompt Understanding",
+      "standard": "Standard",
+      "precise": "Precise",
+      "complexRequests": "Gets complex requests right",
+      "maxRes": "Max Resolution",
+      "draftMode": "Draft Mode",
+      "fasterCost": "10x faster, 50% cost",
+      "sref": "Style Reference (sref)",
+      "enhanced": "Enhanced support",
+      "parameters": "Model Parameters",
+      "undisclosed": "Undisclosed",
+      "draftSpeed": "Draft Speed"
+    }
+  },
+  "tips": {
+    "title": "Pro Tips",
+    "subtitle": "Get better results with these techniques",
+    "tip1": {
+      "title": "Be Specific",
+      "desc": "The more detail you provide about character features, clothing, poses, and backgrounds, the closer V7 gets to your vision. Don't be shy—describe everything."
+    },
+    "tip2": {
+      "title": "Master Aspect Ratios",
+      "desc": "Use --ar to set your canvas. Try 3:4 for portraits, 16:9 for scenes, 1:1 for icons. The right ratio makes a huge difference."
+    },
+    "tip3": {
+      "title": "Draft First, Refine Later",
+      "desc": "Use draft mode to rapidly explore ideas at 10x speed and half cost. Once you find the direction you like, switch to full quality."
+    },
+    "tip4": {
+      "title": "Build Your Style Library",
+      "desc": "Save reference images that capture your aesthetic. Use --sref to maintain consistency across an entire series or character lineup."
+    }
+  },
+  "faq": {
+    "title": "Got Questions?",
+    "subtitle": "Here's what people usually want to know",
+    "q1": {
+      "question": "What exactly is Niji Journey V7?",
+      "answer": "Niji V7 is the latest version of Nijijourney's AI image generation model, specifically designed for anime and illustration styles. It's developed in collaboration between Midjourney and Spellbrush, focusing on Eastern aesthetics and anime art."
+    },
+    "q2": {
+      "question": "How do I actually use V7?",
+      "answer": "In Discord, add \"--niji 7\" to the end of your prompt. On the web interface at nijijourney.com, select \"Niji 7\" from the version dropdown. You'll need a Midjourney/Nijijourney subscription to generate images."
+    },
+    "q3": {
+      "question": "Is there a free option?",
+      "answer": "Midjourney occasionally offers free trial periods. The basic subscription starts at $10/month with limited generations. Our tools here (prompt builder, templates, guides) are completely free to use."
+    },
+    "q4": {
+      "question": "What's the real difference between V6 and V7?",
+      "answer": "V7 brings major improvements in coherency (especially eyes and hands), lineart quality, prompt understanding, and introduces draft mode for faster iteration. It's more literal in interpretation, so vague prompts may work differently than in V6."
+    },
+    "q5": {
+      "question": "What's the --sref feature for?",
+      "answer": "Style Reference (--sref) lets you use an image URL to influence the visual style of your generation. It's perfect for maintaining a consistent aesthetic across multiple images, like for character sheets or series."
+    },
+    "q6": {
+      "question": "Can I use the images commercially?",
+      "answer": "Yes, with a paid Midjourney subscription you own the rights to the images you create and can use them commercially. Check Midjourney's terms of service for specific details on your subscription tier."
+    }
+  },
+  "features": {
+    "title": "Powerful Tools for Anime Creators",
+    "subtitle": "Everything you need to create perfect Niji V7 prompts",
+    "promptBuilder": {
+      "title": "Prompt Builder",
+      "description": "Build perfect prompts step by step. Select character, scene, style, and parameters to generate optimized prompts."
+    },
+    "templates": {
+      "title": "Prompt Templates",
+      "description": "Ready-to-use prompt templates for various anime styles. Copy, customize, and create beautiful art."
+    },
+    "parameters": {
+      "title": "Parameter Guide",
+      "description": "Complete guide to all Niji V7 parameters. Master --ar, --stylize, --sref, and more."
+    },
+    "multilingual": {
+      "title": "Multi-Language",
+      "description": "Available in English, Japanese, Korean, Simplified Chinese, and Traditional Chinese."
+    }
+  },
+  "promptBuilder": {
+    "title": "Prompt Builder",
+    "subtitle": "Build your perfect Niji V7 prompt step by step",
+    "character": {
+      "title": "Character",
+      "gender": "Gender",
+      "genderOptions": {
+        "none": "Not specified",
+        "female": "Female",
+        "male": "Male",
+        "other": "Non-binary"
+      },
+      "age": "Age",
+      "ageOptions": {
+        "none": "Not specified",
+        "child": "Child",
+        "teen": "Teen",
+        "young": "Young Adult",
+        "adult": "Adult",
+        "elderly": "Elderly"
+      },
+      "hairColor": "Hair Color",
+      "hairOptions": {
+        "none": "Not specified",
+        "black": "Black",
+        "brown": "Brown",
+        "blonde": "Blonde",
+        "red": "Red",
+        "pink": "Pink",
+        "blue": "Blue",
+        "purple": "Purple",
+        "green": "Green",
+        "white": "White",
+        "silver": "Silver"
+      },
+      "hairStyle": "Hair Style",
+      "hairStyleOptions": {
+        "none": "Not specified",
+        "short": "Short",
+        "long": "Long",
+        "ponytail": "Ponytail",
+        "twintails": "Twin Tails",
+        "braid": "Braid",
+        "bun": "Bun",
+        "bob": "Bob"
+      },
+      "eyeColor": "Eye Color",
+      "expression": "Expression",
+      "expressionOptions": {
+        "none": "Not specified",
+        "happy": "Happy",
+        "sad": "Sad",
+        "angry": "Angry",
+        "surprised": "Surprised",
+        "calm": "Calm",
+        "determined": "Determined",
+        "shy": "Shy",
+        "confident": "Confident"
+      }
+    },
+    "scene": {
+      "title": "Scene",
+      "location": "Location",
+      "locationOptions": {
+        "none": "Not specified",
+        "city": "City",
+        "school": "School",
+        "forest": "Forest",
+        "beach": "Beach",
+        "mountain": "Mountain",
+        "castle": "Castle",
+        "space": "Space",
+        "underwater": "Underwater",
+        "cafe": "Cafe",
+        "bedroom": "Bedroom"
+      },
+      "time": "Time of Day",
+      "timeOptions": {
+        "none": "Not specified",
+        "day": "Day",
+        "night": "Night",
+        "sunset": "Sunset",
+        "sunrise": "Sunrise",
+        "golden_hour": "Golden Hour"
+      },
+      "weather": "Weather",
+      "weatherOptions": {
+        "none": "Not specified",
+        "clear": "Clear",
+        "cloudy": "Cloudy",
+        "rain": "Rain",
+        "snow": "Snow",
+        "storm": "Storm",
+        "fog": "Fog"
+      }
+    },
+    "style": {
+      "title": "Style",
+      "artStyle": "Art Style",
+      "artStyleOptions": {
+        "none": "Not specified",
+        "anime": "Anime",
+        "manga": "Manga",
+        "chibi": "Chibi",
+        "realistic": "Semi-realistic",
+        "watercolor": "Watercolor",
+        "cel_shading": "Cel Shading",
+        "ghibli": "Studio Ghibli",
+        "cyberpunk": "Cyberpunk",
+        "fantasy": "Fantasy"
+      },
+      "lighting": "Lighting",
+      "lightingOptions": {
+        "none": "Not specified",
+        "soft": "Soft Light",
+        "dramatic": "Dramatic",
+        "backlit": "Backlit",
+        "neon": "Neon",
+        "natural": "Natural",
+        "studio": "Studio",
+        "cinematic": "Cinematic"
+      },
+      "camera": "Camera Angle",
+      "cameraOptions": {
+        "none": "Not specified",
+        "portrait": "Portrait",
+        "full_body": "Full Body",
+        "close_up": "Close-up",
+        "wide": "Wide Shot",
+        "dutch": "Dutch Angle",
+        "low": "Low Angle",
+        "high": "High Angle",
+        "pov": "POV"
+      }
+    },
+    "parameters": {
+      "title": "Parameters",
+      "aspectRatio": "Aspect Ratio",
+      "stylize": "Stylize (0-1000)",
+      "quality": "Quality"
+    },
+    "output": {
+      "title": "Generated Prompt",
+      "copy": "Copy Prompt",
+      "copied": "Copied!",
+      "create": "Create with Niji V7 →",
+      "empty": "Select options above to generate your prompt"
+    }
+  },
+  "prompts": {
+    "title": "Prompt Templates",
+    "subtitle": "Ready-to-use prompts for stunning anime art",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "categories": {
+      "all": "All",
+      "character": "Character",
+      "action": "Action",
+      "landscape": "Landscape",
+      "style": "Style Reference"
+    }
+  },
+  "parameters": {
+    "title": "Parameter Guide",
+    "subtitle": "Master all Niji V7 parameters",
+    "usage": "Usage",
+    "example": "Example",
+    "default": "Default",
+    "range": "Range"
+  },
+  "cta": {
+    "title": "Ready to Create Amazing Anime Art?",
+    "description": "Use our tools to craft the perfect prompt, then bring your vision to life with Niji V7.",
+    "button": "Start Creating on Niji Journey →"
+  },
+  "footer": {
+    "description": "Free tools for Niji V7 prompt creation. Not affiliated with Midjourney or Nijijourney.",
+    "tools": "Tools",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Disclaimer: This is an independent tool site. Niji V7 is a product of Midjourney and Spellbrush."
+  }
+}

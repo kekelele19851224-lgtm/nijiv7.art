@@ -1,0 +1,336 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "promptBuilder": "プロンプト作成",
+    "prompts": "テンプレート",
+    "parameters": "パラメータ",
+    "startCreating": "作成開始"
+  },
+  "hero": {
+    "badge": "アニメを本当に理解するAI",
+    "title": "Niji V7",
+    "subtitle": "プロンプトジェネレーター",
+    "description": "Niji V7用の完璧なプロンプトを作成。無料ツール、テンプレート、パラメータガイドで美しいアニメアートを生成。",
+    "cta": "無料で作成開始 →",
+    "stats": {
+      "prompts": "テンプレート",
+      "parameters": "パラメータ",
+      "languages": "言語"
+    }
+  },
+  "whyV7": {
+    "title": "V7がすべてを変える理由",
+    "subtitle": "アニメアーティストや愛好家にとって本当に重要な改善点",
+    "coherency": {
+      "title": "抜群の一貫性",
+      "desc": "おかしな目や不一致なディテールとはお別れ。V7は反射から背景、キャラクターの特徴まで、あらゆる要素で劇的に改善された一貫性を実現。"
+    },
+    "lineart": {
+      "title": "美しい線画",
+      "desc": "プロのアニメイラストの本質を捉えた、クリーンで自信に満ちたストローク。ベテランアーティストも感心する線画クオリティ。"
+    },
+    "prompt": {
+      "title": "あなたの言葉を理解する",
+      "desc": "V7はあなたの要求を理解します。複雑なプロンプト、具体的なキャラクターディテール、特定のポーズ—予想以上に正確に再現。"
+    },
+    "sref": {
+      "title": "スタイル参照",
+      "desc": "強力な--sref機能であなたの美学をロック。キャラクターシートやシリーズ作品に最適な、一貫したビジュアルアイデンティティを構築。"
+    }
+  },
+  "howTo": {
+    "title": "数分で始められる",
+    "subtitle": "登録から素晴らしいアニメアートまで、3つの簡単なステップ",
+    "step1": {
+      "title": "アカウント作成",
+      "desc": "Niji Journey公式サイトまたはDiscordサーバーに参加。無料トライアルで試すことができます。"
+    },
+    "step2": {
+      "title": "プロンプトを作成",
+      "desc": "作りたいものを説明。プロンプトの最後に「--niji 7」を追加してV7の可能性を最大限に引き出す。詳細に書いても大丈夫—V7は対応できます。"
+    },
+    "step3": {
+      "title": "生成＆改良",
+      "desc": "数秒で4つのユニークなバリエーションが登場。お気に入りをアップスケール、うまくいったものを反復、そして傑作をダウンロード。"
+    }
+  },
+  "compare": {
+    "title": "V6 vs V7：アップグレード",
+    "subtitle": "最新バージョンで何が改善されたかを確認",
+    "table": {
+      "feature": "機能",
+      "lineart": "線画品質",
+      "good": "良好",
+      "exceptional": "卓越",
+      "majorUpgrade": "大幅アップグレード",
+      "consistency": "キャラクター一貫性",
+      "moderate": "中程度",
+      "high": "高い",
+      "eyesHands": "目、手、ポーズが一貫",
+      "promptUnderstanding": "プロンプト理解",
+      "standard": "標準",
+      "precise": "精確",
+      "complexRequests": "複雑な要求を正確に理解",
+      "maxRes": "最大解像度",
+      "draftMode": "ドラフトモード",
+      "fasterCost": "10倍速、コスト半分",
+      "sref": "スタイル参照 (sref)",
+      "enhanced": "強化サポート",
+      "parameters": "モデルパラメータ",
+      "undisclosed": "非公開",
+      "draftSpeed": "ドラフト速度"
+    }
+  },
+  "tips": {
+    "title": "プロのコツ",
+    "subtitle": "これらのテクニックでより良い結果を",
+    "tip1": {
+      "title": "具体的に書く",
+      "desc": "キャラクターの特徴、衣装、ポーズ、背景について詳細に書くほど、V7はあなたのビジョンに近づきます。遠慮せずすべてを説明しましょう。"
+    },
+    "tip2": {
+      "title": "アスペクト比をマスター",
+      "desc": "--arでキャンバスを設定。ポートレートは3:4、シーンは16:9、アイコンは1:1。適切な比率が大きな違いを生みます。"
+    },
+    "tip3": {
+      "title": "まず下書き、後で仕上げ",
+      "desc": "ドラフトモードで10倍の速度と半分のコストでアイデアを探索。好きな方向が見つかったら、フル品質に切り替え。"
+    },
+    "tip4": {
+      "title": "スタイルライブラリを構築",
+      "desc": "あなたの美学を捉えた参考画像を保存。--srefを使ってシリーズ全体やキャラクターラインナップで一貫性を維持。"
+    }
+  },
+  "faq": {
+    "title": "質問がありますか？",
+    "subtitle": "よくある質問をまとめました",
+    "q1": {
+      "question": "Niji Journey V7とは何ですか？",
+      "answer": "Niji V7はNijijourneyの最新AI画像生成モデルで、アニメやイラストスタイルに特化しています。MidjourneyとSpellbrushの協力で開発され、東洋の美学とアニメアートに焦点を当てています。"
+    },
+    "q2": {
+      "question": "V7はどうやって使いますか？",
+      "answer": "Discordではプロンプトの最後に「--niji 7」を追加。nijijourney.comのWebインターフェースでは、バージョンドロップダウンから「Niji 7」を選択。画像生成にはMidjourney/Nijijourneyのサブスクリプションが必要です。"
+    },
+    "q3": {
+      "question": "無料オプションはありますか？",
+      "answer": "Midjourneyは時々無料トライアル期間を提供しています。基本サブスクリプションは月額10ドルから、生成回数に制限があります。ここにあるツール（プロンプトビルダー、テンプレート、ガイド）は完全無料で使用できます。"
+    },
+    "q4": {
+      "question": "V6とV7の本当の違いは何ですか？",
+      "answer": "V7は一貫性（特に目と手）、線画品質、プロンプト理解に大きな改善をもたらし、より速い反復のためのドラフトモードを導入。解釈がより文字通りになるため、曖昧なプロンプトはV6とは異なる動作をする可能性があります。"
+    },
+    "q5": {
+      "question": "--sref機能は何のためですか？",
+      "answer": "スタイル参照（--sref）を使用すると、画像URLを使って生成のビジュアルスタイルに影響を与えることができます。キャラクターシートやシリーズなど、複数の画像で一貫した美学を維持するのに最適です。"
+    },
+    "q6": {
+      "question": "画像を商用利用できますか？",
+      "answer": "はい、Midjourneyの有料サブスクリプションがあれば、作成した画像の権利を所有し、商用利用が可能です。サブスクリプションティアの詳細についてはMidjourneyの利用規約をご確認ください。"
+    }
+  },
+  "features": {
+    "title": "アニメクリエイター向けパワフルツール",
+    "subtitle": "完璧なNiji V7プロンプト作成に必要なすべて",
+    "promptBuilder": {
+      "title": "プロンプト作成",
+      "description": "ステップバイステップで完璧なプロンプトを構築。キャラクター、シーン、スタイル、パラメータを選択。"
+    },
+    "templates": {
+      "title": "テンプレート",
+      "description": "様々なアニメスタイル用のすぐに使えるテンプレート。コピー、カスタマイズして美しいアートを作成。"
+    },
+    "parameters": {
+      "title": "パラメータガイド",
+      "description": "Niji V7全パラメータの完全ガイド。--ar、--stylize、--srefなどをマスター。"
+    },
+    "multilingual": {
+      "title": "多言語対応",
+      "description": "英語、日本語、韓国語、簡体字中国語、繁体字中国語に対応。"
+    }
+  },
+  "promptBuilder": {
+    "title": "プロンプト作成",
+    "subtitle": "ステップバイステップでNiji V7プロンプトを構築",
+    "character": {
+      "title": "キャラクター",
+      "gender": "性別",
+      "genderOptions": {
+        "none": "指定なし",
+        "female": "女性",
+        "male": "男性",
+        "other": "その他"
+      },
+      "age": "年齢",
+      "ageOptions": {
+        "none": "指定なし",
+        "child": "子供",
+        "teen": "10代",
+        "young": "若者",
+        "adult": "大人",
+        "elderly": "高齢者"
+      },
+      "hairColor": "髪の色",
+      "hairOptions": {
+        "none": "指定なし",
+        "black": "黒",
+        "brown": "茶色",
+        "blonde": "金髪",
+        "red": "赤",
+        "pink": "ピンク",
+        "blue": "青",
+        "purple": "紫",
+        "green": "緑",
+        "white": "白",
+        "silver": "銀"
+      },
+      "hairStyle": "髪型",
+      "hairStyleOptions": {
+        "none": "指定なし",
+        "short": "ショート",
+        "long": "ロング",
+        "ponytail": "ポニーテール",
+        "twintails": "ツインテール",
+        "braid": "三つ編み",
+        "bun": "お団子",
+        "bob": "ボブ"
+      },
+      "eyeColor": "目の色",
+      "expression": "表情",
+      "expressionOptions": {
+        "none": "指定なし",
+        "happy": "幸せ",
+        "sad": "悲しい",
+        "angry": "怒り",
+        "surprised": "驚き",
+        "calm": "穏やか",
+        "determined": "決意",
+        "shy": "恥ずかしい",
+        "confident": "自信"
+      }
+    },
+    "scene": {
+      "title": "シーン",
+      "location": "場所",
+      "locationOptions": {
+        "none": "指定なし",
+        "city": "都市",
+        "school": "学校",
+        "forest": "森",
+        "beach": "ビーチ",
+        "mountain": "山",
+        "castle": "城",
+        "space": "宇宙",
+        "underwater": "水中",
+        "cafe": "カフェ",
+        "bedroom": "寝室"
+      },
+      "time": "時間帯",
+      "timeOptions": {
+        "none": "指定なし",
+        "day": "昼",
+        "night": "夜",
+        "sunset": "夕暮れ",
+        "sunrise": "日の出",
+        "golden_hour": "ゴールデンアワー"
+      },
+      "weather": "天気",
+      "weatherOptions": {
+        "none": "指定なし",
+        "clear": "晴れ",
+        "cloudy": "曇り",
+        "rain": "雨",
+        "snow": "雪",
+        "storm": "嵐",
+        "fog": "霧"
+      }
+    },
+    "style": {
+      "title": "スタイル",
+      "artStyle": "アートスタイル",
+      "artStyleOptions": {
+        "none": "指定なし",
+        "anime": "アニメ",
+        "manga": "漫画",
+        "chibi": "ちび",
+        "realistic": "セミリアル",
+        "watercolor": "水彩",
+        "cel_shading": "セルシェーディング",
+        "ghibli": "スタジオジブリ",
+        "cyberpunk": "サイバーパンク",
+        "fantasy": "ファンタジー"
+      },
+      "lighting": "照明",
+      "lightingOptions": {
+        "none": "指定なし",
+        "soft": "ソフトライト",
+        "dramatic": "ドラマチック",
+        "backlit": "逆光",
+        "neon": "ネオン",
+        "natural": "自然光",
+        "studio": "スタジオ",
+        "cinematic": "シネマティック"
+      },
+      "camera": "カメラアングル",
+      "cameraOptions": {
+        "none": "指定なし",
+        "portrait": "ポートレート",
+        "full_body": "全身",
+        "close_up": "クローズアップ",
+        "wide": "ワイド",
+        "dutch": "ダッチアングル",
+        "low": "ローアングル",
+        "high": "ハイアングル",
+        "pov": "POV"
+      }
+    },
+    "parameters": {
+      "title": "パラメータ",
+      "aspectRatio": "アスペクト比",
+      "stylize": "スタイライズ (0-1000)",
+      "quality": "品質"
+    },
+    "output": {
+      "title": "生成されたプロンプト",
+      "copy": "コピー",
+      "copied": "コピーしました！",
+      "create": "Niji V7で作成 →",
+      "empty": "上のオプションを選択してプロンプトを生成"
+    }
+  },
+  "prompts": {
+    "title": "プロンプトテンプレート",
+    "subtitle": "美しいアニメアート用のすぐに使えるプロンプト",
+    "copy": "コピー",
+    "copied": "コピーしました！",
+    "categories": {
+      "all": "すべて",
+      "character": "キャラクター",
+      "action": "アクション",
+      "landscape": "風景",
+      "style": "スタイル参照"
+    }
+  },
+  "parameters": {
+    "title": "パラメータガイド",
+    "subtitle": "Niji V7の全パラメータをマスター",
+    "usage": "使用方法",
+    "example": "例",
+    "default": "デフォルト",
+    "range": "範囲"
+  },
+  "cta": {
+    "title": "素晴らしいアニメアートを作る準備はできましたか？",
+    "description": "ツールを使って完璧なプロンプトを作成し、Niji V7であなたのビジョンを実現しましょう。",
+    "button": "Niji Journeyで作成開始 →"
+  },
+  "footer": {
+    "description": "Niji V7プロンプト作成のための無料ツール。MidjourneyまたはNijijourneyとは提携していません。",
+    "tools": "ツール",
+    "resources": "リソース",
+    "legal": "法的事項",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "disclaimer": "免責事項：これは独立したツールサイトです。Niji V7はMidjourneyとSpellbrushの製品です。"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "nav": {
+    "home": "首页",
+    "promptBuilder": "提示词生成器",
+    "prompts": "模板库",
+    "parameters": "参数指南",
+    "startCreating": "开始创作"
+  },
+  "hero": {
+    "badge": "真正懂动漫的AI",
+    "title": "Niji V7",
+    "subtitle": "提示词生成器",
+    "description": "为 Niji V7 创建完美的提示词。使用我们的免费工具、模板和参数指南，生成精美的动漫艺术作品。",
+    "cta": "免费开始创作 →",
+    "stats": {
+      "prompts": "提示词模板",
+      "parameters": "参数选项",
+      "languages": "支持语言"
+    }
+  },
+  "whyV7": {
+    "title": "为什么 V7 改变一切",
+    "subtitle": "对动漫艺术家和爱好者真正重要的改进",
+    "coherency": {
+      "title": "坚如磐石的一致性",
+      "desc": "告别奇怪的眼睛和不匹配的细节。V7 在每个元素上都带来了显著改进的一致性——从反射到背景再到角色特征。"
+    },
+    "lineart": {
+      "title": "精美的线条",
+      "desc": "干净、自信的笔触，捕捉专业动漫插画的精髓。连资深艺术家都会欣赏的线条质量。"
+    },
+    "prompt": {
+      "title": "它真的在倾听",
+      "desc": "V7 理解你的要求。复杂的提示词、具体的角色细节、特定的姿势——它比你预期的更准确。"
+    },
+    "sref": {
+      "title": "风格参考",
+      "desc": "使用强大的 --sref 功能锁定你的美学风格。在所有作品中建立一致的视觉识别——非常适合角色设计和系列作品。"
+    }
+  },
+  "howTo": {
+    "title": "几分钟内开始",
+    "subtitle": "从注册到精美动漫艺术，只需三个简单步骤",
+    "step1": {
+      "title": "创建账户",
+      "desc": "前往 Niji Journey 官方网站或加入 Discord 服务器。你可以先免费试用体验一下。"
+    },
+    "step2": {
+      "title": "编写提示词",
+      "desc": "描述你想创作的内容。在提示词末尾添加 \"--niji 7\" 来解锁 V7 的全部潜力。尽管详细描述——V7 能处理。"
+    },
+    "step3": {
+      "title": "生成与优化",
+      "desc": "几秒钟内就能看到四个独特的变体。放大你喜欢的版本，迭代优化，然后下载你的杰作。"
+    }
+  },
+  "compare": {
+    "title": "V6 vs V7：全面升级",
+    "subtitle": "看看最新版本到底改进了什么",
+    "table": {
+      "feature": "功能",
+      "lineart": "线条质量",
+      "good": "良好",
+      "exceptional": "卓越",
+      "majorUpgrade": "重大升级",
+      "consistency": "角色一致性",
+      "moderate": "中等",
+      "high": "高",
+      "eyesHands": "眼睛、手部、姿势保持一致",
+      "promptUnderstanding": "提示词理解",
+      "standard": "标准",
+      "precise": "精确",
+      "complexRequests": "准确理解复杂要求",
+      "maxRes": "最大分辨率",
+      "draftMode": "草稿模式",
+      "fasterCost": "速度快10倍，成本减半",
+      "sref": "风格参考 (sref)",
+      "enhanced": "增强支持",
+      "parameters": "模型参数",
+      "undisclosed": "未公开",
+      "draftSpeed": "草稿速度"
+    }
+  },
+  "tips": {
+    "title": "高手技巧",
+    "subtitle": "用这些技巧获得更好的效果",
+    "tip1": {
+      "title": "描述要具体",
+      "desc": "你提供的角色特征、服装、姿势和背景细节越多，V7 就越接近你的想象。不要害羞——描述一切。"
+    },
+    "tip2": {
+      "title": "掌握宽高比",
+      "desc": "使用 --ar 设置画布。肖像用 3:4，场景用 16:9，图标用 1:1。正确的比例会产生巨大的差异。"
+    },
+    "tip3": {
+      "title": "先草稿，后精修",
+      "desc": "使用草稿模式以 10 倍速度和一半成本快速探索创意。找到喜欢的方向后，再切换到完整质量。"
+    },
+    "tip4": {
+      "title": "建立风格库",
+      "desc": "保存能体现你美学风格的参考图像。使用 --sref 在整个系列或角色阵容中保持一致性。"
+    }
+  },
+  "faq": {
+    "title": "有问题？",
+    "subtitle": "这里是大家通常想知道的",
+    "q1": {
+      "question": "Niji Journey V7 到底是什么？",
+      "answer": "Niji V7 是 Nijijourney 最新版本的 AI 图像生成模型，专为动漫和插画风格设计。它由 Midjourney 和 Spellbrush 合作开发，专注于东方美学和动漫艺术。"
+    },
+    "q2": {
+      "question": "如何使用 V7？",
+      "answer": "在 Discord 中，在提示词末尾添加 \"--niji 7\"。在 nijijourney.com 的网页界面中，从版本下拉菜单选择 \"Niji 7\"。你需要 Midjourney/Nijijourney 订阅才能生成图像。"
+    },
+    "q3": {
+      "question": "有免费选项吗？",
+      "answer": "Midjourney 偶尔会提供免费试用期。基础订阅每月 10 美元起，生成次数有限。我们这里的工具（提示词生成器、模板、指南）完全免费使用。"
+    },
+    "q4": {
+      "question": "V6 和 V7 的真正区别是什么？",
+      "answer": "V7 在一致性（特别是眼睛和手部）、线条质量、提示词理解方面有重大改进，并引入了草稿模式以加快迭代。它的理解更字面化，所以模糊的提示词可能与 V6 表现不同。"
+    },
+    "q5": {
+      "question": "--sref 功能是做什么的？",
+      "answer": "风格参考（--sref）让你使用图像 URL 来影响生成的视觉风格。它非常适合在多张图像中保持一致的美学风格，比如角色设计表或系列作品。"
+    },
+    "q6": {
+      "question": "我可以将图像用于商业用途吗？",
+      "answer": "是的，付费订阅 Midjourney 后，你拥有所创建图像的权利，可以用于商业用途。具体细节请查看 Midjourney 的服务条款。"
+    }
+  },
+  "features": {
+    "title": "动漫创作者的强大工具",
+    "subtitle": "创建完美 Niji V7 提示词所需的一切",
+    "promptBuilder": {
+      "title": "提示词生成器",
+      "description": "逐步构建完美的提示词。选择角色、场景、风格和参数，生成优化的提示词。"
+    },
+    "templates": {
+      "title": "提示词模板",
+      "description": "各种动漫风格的即用型模板。复制、自定义，创作精美的艺术作品。"
+    },
+    "parameters": {
+      "title": "参数指南",
+      "description": "完整的 Niji V7 参数指南。掌握 --ar、--stylize、--sref 等参数。"
+    },
+    "multilingual": {
+      "title": "多语言支持",
+      "description": "支持英语、日语、韩语、简体中文和繁体中文。"
+    }
+  },
+  "promptBuilder": {
+    "title": "提示词生成器",
+    "subtitle": "逐步构建你的完美 Niji V7 提示词",
+    "character": {
+      "title": "角色",
+      "gender": "性别",
+      "genderOptions": {
+        "none": "不指定",
+        "female": "女性",
+        "male": "男性",
+        "other": "其他"
+      },
+      "age": "年龄",
+      "ageOptions": {
+        "none": "不指定",
+        "child": "儿童",
+        "teen": "青少年",
+        "young": "青年",
+        "adult": "成年",
+        "elderly": "老年"
+      },
+      "hairColor": "发色",
+      "hairOptions": {
+        "none": "不指定",
+        "black": "黑色",
+        "brown": "棕色",
+        "blonde": "金色",
+        "red": "红色",
+        "pink": "粉色",
+        "blue": "蓝色",
+        "purple": "紫色",
+        "green": "绿色",
+        "white": "白色",
+        "silver": "银色"
+      },
+      "hairStyle": "发型",
+      "hairStyleOptions": {
+        "none": "不指定",
+        "short": "短发",
+        "long": "长发",
+        "ponytail": "马尾",
+        "twintails": "双马尾",
+        "braid": "辫子",
+        "bun": "丸子头",
+        "bob": "波波头"
+      },
+      "eyeColor": "瞳色",
+      "expression": "表情",
+      "expressionOptions": {
+        "none": "不指定",
+        "happy": "开心",
+        "sad": "悲伤",
+        "angry": "愤怒",
+        "surprised": "惊讶",
+        "calm": "平静",
+        "determined": "坚定",
+        "shy": "害羞",
+        "confident": "自信"
+      }
+    },
+    "scene": {
+      "title": "场景",
+      "location": "地点",
+      "locationOptions": {
+        "none": "不指定",
+        "city": "城市",
+        "school": "学校",
+        "forest": "森林",
+        "beach": "海滩",
+        "mountain": "山脉",
+        "castle": "城堡",
+        "space": "太空",
+        "underwater": "水下",
+        "cafe": "咖啡厅",
+        "bedroom": "卧室"
+      },
+      "time": "时间",
+      "timeOptions": {
+        "none": "不指定",
+        "day": "白天",
+        "night": "夜晚",
+        "sunset": "日落",
+        "sunrise": "日出",
+        "golden_hour": "黄金时段"
+      },
+      "weather": "天气",
+      "weatherOptions": {
+        "none": "不指定",
+        "clear": "晴朗",
+        "cloudy": "多云",
+        "rain": "下雨",
+        "snow": "下雪",
+        "storm": "暴风雨",
+        "fog": "雾"
+      }
+    },
+    "style": {
+      "title": "风格",
+      "artStyle": "艺术风格",
+      "artStyleOptions": {
+        "none": "不指定",
+        "anime": "动漫",
+        "manga": "漫画",
+        "chibi": "Q版",
+        "realistic": "半写实",
+        "watercolor": "水彩",
+        "cel_shading": "赛璐璐",
+        "ghibli": "吉卜力",
+        "cyberpunk": "赛博朋克",
+        "fantasy": "奇幻"
+      },
+      "lighting": "光照",
+      "lightingOptions": {
+        "none": "不指定",
+        "soft": "柔光",
+        "dramatic": "戏剧性",
+        "backlit": "逆光",
+        "neon": "霓虹",
+        "natural": "自然光",
+        "studio": "工作室",
+        "cinematic": "电影感"
+      },
+      "camera": "镜头角度",
+      "cameraOptions": {
+        "none": "不指定",
+        "portrait": "肖像",
+        "full_body": "全身",
+        "close_up": "特写",
+        "wide": "广角",
+        "dutch": "荷兰角",
+        "low": "低角度",
+        "high": "高角度",
+        "pov": "第一人称"
+      }
+    },
+    "parameters": {
+      "title": "参数",
+      "aspectRatio": "宽高比",
+      "stylize": "风格化 (0-1000)",
+      "quality": "质量"
+    },
+    "output": {
+      "title": "生成的提示词",
+      "copy": "复制",
+      "copied": "已复制！",
+      "create": "在 Niji V7 创作 →",
+      "empty": "选择上方选项以生成提示词"
+    }
+  },
+  "prompts": {
+    "title": "提示词模板",
+    "subtitle": "精美动漫艺术的即用型提示词",
+    "copy": "复制",
+    "copied": "已复制！",
+    "categories": {
+      "all": "全部",
+      "character": "角色",
+      "action": "动作",
+      "landscape": "风景",
+      "style": "风格参考"
+    }
+  },
+  "parameters": {
+    "title": "参数指南",
+    "subtitle": "掌握 Niji V7 的所有参数",
+    "usage": "用法",
+    "example": "示例",
+    "default": "默认值",
+    "range": "范围"
+  },
+  "cta": {
+    "title": "准备好创作精彩的动漫艺术了吗？",
+    "description": "使用我们的工具制作完美的提示词，然后用 Niji V7 实现你的创意。",
+    "button": "在 Niji Journey 开始创作 →"
+  },
+  "footer": {
+    "description": "Niji V7 提示词创作的免费工具。与 Midjourney 或 Nijijourney 无关联。",
+    "tools": "工具",
+    "resources": "资源",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "disclaimer": "免责声明：这是一个独立的工具网站。Niji V7 是 Midjourney 和 Spellbrush 的产品。"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "nav": {
+    "home": "홈",
+    "promptBuilder": "프롬프트 빌더",
+    "prompts": "템플릿",
+    "parameters": "파라미터",
+    "startCreating": "시작하기"
+  },
+  "hero": {
+    "badge": "애니메이션을 진정으로 이해하는 AI",
+    "title": "Niji V7",
+    "subtitle": "프롬프트 생성기",
+    "description": "Niji V7를 위한 완벽한 프롬프트를 만들어보세요. 무료 도구, 템플릿, 파라미터 가이드로 멋진 애니메이션 아트를 생성하세요.",
+    "cta": "무료로 시작하기 →",
+    "stats": {
+      "prompts": "프롬프트 템플릿",
+      "parameters": "파라미터",
+      "languages": "언어"
+    }
+  },
+  "whyV7": {
+    "title": "V7이 모든 것을 바꾸는 이유",
+    "subtitle": "애니메이션 아티스트와 팬에게 정말 중요한 개선 사항",
+    "coherency": {
+      "title": "흔들림 없는 일관성",
+      "desc": "이상한 눈과 어울리지 않는 디테일은 이제 그만. V7은 반사, 배경, 캐릭터 특징까지 모든 요소에서 극적으로 향상된 일관성을 제공합니다."
+    },
+    "lineart": {
+      "title": "아름다운 선화",
+      "desc": "프로 애니메이션 일러스트의 본질을 담은 깔끔하고 자신감 있는 선. 베테랑 아티스트도 감탄하는 선화 퀄리티."
+    },
+    "prompt": {
+      "title": "당신의 말을 이해합니다",
+      "desc": "V7은 당신이 원하는 것을 이해합니다. 복잡한 프롬프트, 구체적인 캐릭터 디테일, 특정 포즈—예상보다 더 정확하게 구현합니다."
+    },
+    "sref": {
+      "title": "스타일 참조",
+      "desc": "강력한 --sref 기능으로 당신의 미학을 고정하세요. 캐릭터 시트와 시리즈에 완벽한, 일관된 비주얼 아이덴티티를 구축하세요."
+    }
+  },
+  "howTo": {
+    "title": "몇 분 만에 시작하세요",
+    "subtitle": "가입부터 멋진 애니메이션 아트까지, 세 가지 간단한 단계",
+    "step1": {
+      "title": "계정 만들기",
+      "desc": "공식 Niji Journey 사이트로 가거나 Discord 서버에 가입하세요. 무료 체험판으로 먼저 테스트해 볼 수 있습니다."
+    },
+    "step2": {
+      "title": "프롬프트 작성",
+      "desc": "만들고 싶은 것을 설명하세요. 프롬프트 끝에 \"--niji 7\"을 추가하여 V7의 잠재력을 최대한 발휘하세요. 구체적으로 작성해도 됩니다—V7은 처리할 수 있습니다."
+    },
+    "step3": {
+      "title": "생성 및 개선",
+      "desc": "몇 초 안에 네 가지 고유한 변형이 나타납니다. 마음에 드는 것을 업스케일하고, 잘 된 것을 반복하고, 걸작을 다운로드하세요."
+    }
+  },
+  "compare": {
+    "title": "V6 vs V7: 업그레이드",
+    "subtitle": "최신 버전에서 정확히 무엇이 개선되었는지 확인하세요",
+    "table": {
+      "feature": "기능",
+      "lineart": "선화 품질",
+      "good": "양호",
+      "exceptional": "탁월",
+      "majorUpgrade": "대폭 업그레이드",
+      "consistency": "캐릭터 일관성",
+      "moderate": "보통",
+      "high": "높음",
+      "eyesHands": "눈, 손, 포즈가 일관됨",
+      "promptUnderstanding": "프롬프트 이해",
+      "standard": "표준",
+      "precise": "정확",
+      "complexRequests": "복잡한 요청을 정확히 이해",
+      "maxRes": "최대 해상도",
+      "draftMode": "드래프트 모드",
+      "fasterCost": "10배 빠름, 비용 50%",
+      "sref": "스타일 참조 (sref)",
+      "enhanced": "향상된 지원",
+      "parameters": "모델 파라미터",
+      "undisclosed": "비공개",
+      "draftSpeed": "드래프트 속도"
+    }
+  },
+  "tips": {
+    "title": "프로 팁",
+    "subtitle": "이 기술로 더 나은 결과를 얻으세요",
+    "tip1": {
+      "title": "구체적으로 작성하세요",
+      "desc": "캐릭터 특징, 의상, 포즈, 배경에 대해 더 많은 디테일을 제공할수록 V7은 당신의 비전에 더 가까워집니다. 부끄러워하지 마세요—모든 것을 설명하세요."
+    },
+    "tip2": {
+      "title": "화면 비율 마스터하기",
+      "desc": "--ar로 캔버스를 설정하세요. 인물은 3:4, 장면은 16:9, 아이콘은 1:1을 사용해 보세요. 올바른 비율이 큰 차이를 만듭니다."
+    },
+    "tip3": {
+      "title": "먼저 초안, 나중에 다듬기",
+      "desc": "드래프트 모드로 10배 속도와 절반 비용으로 아이디어를 빠르게 탐색하세요. 마음에 드는 방향을 찾으면 풀 퀄리티로 전환하세요."
+    },
+    "tip4": {
+      "title": "스타일 라이브러리 구축",
+      "desc": "당신의 미학을 담은 참조 이미지를 저장하세요. --sref를 사용하여 전체 시리즈나 캐릭터 라인업에서 일관성을 유지하세요."
+    }
+  },
+  "faq": {
+    "title": "궁금한 점이 있나요?",
+    "subtitle": "사람들이 보통 알고 싶어하는 것들",
+    "q1": {
+      "question": "Niji Journey V7이 정확히 뭔가요?",
+      "answer": "Niji V7은 애니메이션과 일러스트 스타일에 특화된 Nijijourney의 최신 AI 이미지 생성 모델입니다. Midjourney와 Spellbrush의 협력으로 개발되었으며, 동양 미학과 애니메이션 아트에 중점을 둡니다."
+    },
+    "q2": {
+      "question": "V7은 어떻게 사용하나요?",
+      "answer": "Discord에서는 프롬프트 끝에 \"--niji 7\"을 추가하세요. nijijourney.com 웹 인터페이스에서는 버전 드롭다운에서 \"Niji 7\"을 선택하세요. 이미지 생성에는 Midjourney/Nijijourney 구독이 필요합니다."
+    },
+    "q3": {
+      "question": "무료 옵션이 있나요?",
+      "answer": "Midjourney는 가끔 무료 체험 기간을 제공합니다. 기본 구독은 월 $10부터 시작하며 생성 횟수가 제한됩니다. 여기 있는 도구(프롬프트 빌더, 템플릿, 가이드)는 완전히 무료로 사용할 수 있습니다."
+    },
+    "q4": {
+      "question": "V6와 V7의 실제 차이점은 뭔가요?",
+      "answer": "V7은 일관성(특히 눈과 손), 선화 품질, 프롬프트 이해에서 큰 개선을 가져왔고, 더 빠른 반복을 위한 드래프트 모드를 도입했습니다. 해석이 더 문자 그대로 이루어지므로, 모호한 프롬프트는 V6와 다르게 작동할 수 있습니다."
+    },
+    "q5": {
+      "question": "--sref 기능은 무엇을 위한 건가요?",
+      "answer": "스타일 참조(--sref)를 사용하면 이미지 URL을 사용하여 생성의 비주얼 스타일에 영향을 줄 수 있습니다. 캐릭터 시트나 시리즈처럼 여러 이미지에서 일관된 미학을 유지하는 데 완벽합니다."
+    },
+    "q6": {
+      "question": "이미지를 상업적으로 사용할 수 있나요?",
+      "answer": "네, Midjourney 유료 구독이 있으면 만든 이미지에 대한 권리를 소유하고 상업적으로 사용할 수 있습니다. 구독 등급에 대한 자세한 내용은 Midjourney 이용약관을 확인하세요."
+    }
+  },
+  "features": {
+    "title": "애니메이션 크리에이터를 위한 강력한 도구",
+    "subtitle": "완벽한 Niji V7 프롬프트 생성에 필요한 모든 것",
+    "promptBuilder": {
+      "title": "프롬프트 빌더",
+      "description": "단계별로 완벽한 프롬프트를 구축하세요. 캐릭터, 장면, 스타일, 파라미터를 선택하세요."
+    },
+    "templates": {
+      "title": "프롬프트 템플릿",
+      "description": "다양한 애니메이션 스타일을 위한 바로 사용 가능한 템플릿. 복사, 커스터마이즈하여 아름다운 아트를 만드세요."
+    },
+    "parameters": {
+      "title": "파라미터 가이드",
+      "description": "모든 Niji V7 파라미터 완벽 가이드. --ar, --stylize, --sref 등을 마스터하세요."
+    },
+    "multilingual": {
+      "title": "다국어 지원",
+      "description": "영어, 일본어, 한국어, 중국어 간체, 중국어 번체 지원."
+    }
+  },
+  "promptBuilder": {
+    "title": "프롬프트 빌더",
+    "subtitle": "단계별로 완벽한 Niji V7 프롬프트를 구축하세요",
+    "character": {
+      "title": "캐릭터",
+      "gender": "성별",
+      "genderOptions": {
+        "none": "지정 안 함",
+        "female": "여성",
+        "male": "남성",
+        "other": "기타"
+      },
+      "age": "나이",
+      "ageOptions": {
+        "none": "지정 안 함",
+        "child": "어린이",
+        "teen": "10대",
+        "young": "청년",
+        "adult": "성인",
+        "elderly": "노인"
+      },
+      "hairColor": "머리 색",
+      "hairOptions": {
+        "none": "지정 안 함",
+        "black": "검정",
+        "brown": "갈색",
+        "blonde": "금발",
+        "red": "빨강",
+        "pink": "분홍",
+        "blue": "파랑",
+        "purple": "보라",
+        "green": "초록",
+        "white": "흰색",
+        "silver": "은색"
+      },
+      "hairStyle": "헤어스타일",
+      "hairStyleOptions": {
+        "none": "지정 안 함",
+        "short": "숏컷",
+        "long": "롱헤어",
+        "ponytail": "포니테일",
+        "twintails": "트윈테일",
+        "braid": "땋은 머리",
+        "bun": "번 헤어",
+        "bob": "단발"
+      },
+      "eyeColor": "눈 색",
+      "expression": "표정",
+      "expressionOptions": {
+        "none": "지정 안 함",
+        "happy": "행복",
+        "sad": "슬픔",
+        "angry": "분노",
+        "surprised": "놀람",
+        "calm": "차분",
+        "determined": "결연",
+        "shy": "수줍음",
+        "confident": "자신감"
+      }
+    },
+    "scene": {
+      "title": "장면",
+      "location": "장소",
+      "locationOptions": {
+        "none": "지정 안 함",
+        "city": "도시",
+        "school": "학교",
+        "forest": "숲",
+        "beach": "해변",
+        "mountain": "산",
+        "castle": "성",
+        "space": "우주",
+        "underwater": "수중",
+        "cafe": "카페",
+        "bedroom": "침실"
+      },
+      "time": "시간대",
+      "timeOptions": {
+        "none": "지정 안 함",
+        "day": "낮",
+        "night": "밤",
+        "sunset": "일몰",
+        "sunrise": "일출",
+        "golden_hour": "골든 아워"
+      },
+      "weather": "날씨",
+      "weatherOptions": {
+        "none": "지정 안 함",
+        "clear": "맑음",
+        "cloudy": "흐림",
+        "rain": "비",
+        "snow": "눈",
+        "storm": "폭풍",
+        "fog": "안개"
+      }
+    },
+    "style": {
+      "title": "스타일",
+      "artStyle": "아트 스타일",
+      "artStyleOptions": {
+        "none": "지정 안 함",
+        "anime": "애니메이션",
+        "manga": "만화",
+        "chibi": "치비",
+        "realistic": "세미 리얼",
+        "watercolor": "수채화",
+        "cel_shading": "셀 셰이딩",
+        "ghibli": "스튜디오 지브리",
+        "cyberpunk": "사이버펑크",
+        "fantasy": "판타지"
+      },
+      "lighting": "조명",
+      "lightingOptions": {
+        "none": "지정 안 함",
+        "soft": "소프트 라이트",
+        "dramatic": "드라마틱",
+        "backlit": "역광",
+        "neon": "네온",
+        "natural": "자연광",
+        "studio": "스튜디오",
+        "cinematic": "시네마틱"
+      },
+      "camera": "카메라 앵글",
+      "cameraOptions": {
+        "none": "지정 안 함",
+        "portrait": "인물",
+        "full_body": "전신",
+        "close_up": "클로즈업",
+        "wide": "와이드",
+        "dutch": "더치 앵글",
+        "low": "로우 앵글",
+        "high": "하이 앵글",
+        "pov": "POV"
+      }
+    },
+    "parameters": {
+      "title": "파라미터",
+      "aspectRatio": "화면 비율",
+      "stylize": "스타일라이즈 (0-1000)",
+      "quality": "품질"
+    },
+    "output": {
+      "title": "생성된 프롬프트",
+      "copy": "복사",
+      "copied": "복사됨!",
+      "create": "Niji V7에서 생성 →",
+      "empty": "위의 옵션을 선택하여 프롬프트를 생성하세요"
+    }
+  },
+  "prompts": {
+    "title": "프롬프트 템플릿",
+    "subtitle": "멋진 애니메이션 아트를 위한 바로 사용 가능한 프롬프트",
+    "copy": "복사",
+    "copied": "복사됨!",
+    "categories": {
+      "all": "전체",
+      "character": "캐릭터",
+      "action": "액션",
+      "landscape": "풍경",
+      "style": "스타일 참조"
+    }
+  },
+  "parameters": {
+    "title": "파라미터 가이드",
+    "subtitle": "Niji V7의 모든 파라미터를 마스터하세요",
+    "usage": "사용법",
+    "example": "예시",
+    "default": "기본값",
+    "range": "범위"
+  },
+  "cta": {
+    "title": "놀라운 애니메이션 아트를 만들 준비가 되셨나요?",
+    "description": "도구를 사용하여 완벽한 프롬프트를 만들고 Niji V7로 비전을 실현하세요.",
+    "button": "Niji Journey에서 시작하기 →"
+  },
+  "footer": {
+    "description": "Niji V7 프롬프트 생성을 위한 무료 도구. Midjourney 또는 Nijijourney와 제휴하지 않습니다.",
+    "tools": "도구",
+    "resources": "리소스",
+    "legal": "법적 사항",
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관",
+    "disclaimer": "면책조항: 이것은 독립적인 도구 사이트입니다. Niji V7은 Midjourney와 Spellbrush의 제품입니다."
+  }
+}
