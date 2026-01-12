@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nijiv7.art/sitemap.xml

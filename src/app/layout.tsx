@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
@@ -24,10 +25,27 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  const gaId = 'G-GTVET7D279'
+  const isProduction = process.env.NODE_ENV === 'production'
+
   return (
     <html lang="en">
       <head>
         <link rel="icon" href="/favicon.ico" />
+        {isProduction ? (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+              strategy="afterInteractive"
+            />
+            <Script id="ga4-init" strategy="afterInteractive">
+              {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${gaId}');`}
+            </Script>
+          </>
+        ) : null}
       </head>
       <body>{children}</body>
     </html>
